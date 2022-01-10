@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "PM2 Metrics Module",
   "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "@pm2/io": "^4.1.4",
     "pino": "^5.12.0",
